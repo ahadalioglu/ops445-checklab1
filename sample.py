@@ -44,6 +44,7 @@ if __name__ == '__main__':
                  'lab6',
                  'lab7',
                  'lab8',
+                 'lab9',
                  'a1',
                  'a2' ]
 
